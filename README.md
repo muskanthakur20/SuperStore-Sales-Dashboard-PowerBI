@@ -12,6 +12,8 @@ The objective can be broken down into the following detailed components:
 
 **4. Actionable Insights and Recommendations:** End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction
 ## Dashboard
+![dashboard Power bi](https://github.com/muskanthakur20/SuperStore-Sales-Dashboard-PowerBI/assets/118469585/632f1e8a-aa65-4a1c-945b-5e2c2918d82e)
+
 ## Forecasting Dashboard
 ## Insights
 ➜ COD is more preferred mode of payment than others (~43%)
